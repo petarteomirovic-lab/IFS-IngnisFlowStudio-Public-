@@ -1,0 +1,99 @@
+IGNISFLOWSTUDIO PROPRIETARY FREEWARE LICENCE
+Version 0.1 - 29 October 2026
+
+Copyright (c) 2026 the respective IgnisFlowStudio copyright holders.
+All rights reserved except as expressly granted below.
+
+1. SCOPE AND OWNERSHIP
+
+This licence applies to the original IgnisFlowStudio application and accompanying
+original documentation (the "Software"). The Software is proprietary freeware:
+use is free of charge, but ownership and intellectual property rights remain
+with their respective holders. This is not an open-source licence.
+
+2. FREE USE
+
+Subject to these terms, you are granted a non-exclusive, non-transferable licence
+to download the Software from a distribution source authorised by its copyright
+holder, install it, and use it without a licence fee for personal, educational,
+research, or commercial purposes. You may make installation and backup copies
+solely for your own use or use within your organisation. Your organisation may
+install the Software for its own personnel, but may not supply it to third parties.
+
+You retain your rights in your own input files, projects, and outputs. You may
+share those materials, provided they do not contain copies of the Software.
+
+3. NO REDISTRIBUTION
+
+Without prior written permission from the relevant copyright holder, you may
+not redistribute, publish, upload, mirror, share, sublicense, sell, rent, lend,
+or otherwise provide copies of the Software, in whole or in part, to third
+parties, whether free of charge or for payment. This includes repackaged copies,
+installers, bundles, and modified versions. You may share a link to the official
+download page instead of distributing a copy.
+
+No permission to modify, distribute derivative versions, or obtain the source
+code is granted. You may not remove copyright, licence, or attribution notices.
+Restrictions apply only to the extent permitted by applicable law and subject
+to section 4.
+
+4. THIRD-PARTY COMPONENTS AND MANDATORY RIGHTS
+
+Third-party components, including FDS, Qt/PyQt, MPI, CAD libraries, and other
+dependencies, remain subject to their own licences and notices. This licence
+does not relicense them, override their terms, or restrict rights granted by
+their licences. In a conflict concerning a third-party component, its own
+licence governs that component.
+
+This licence does not itself establish that a particular bundled distribution
+complies with third-party licences. The distributor must independently satisfy
+all applicable third-party licensing obligations.
+
+Nothing in this licence limits rights that cannot lawfully be excluded,
+including mandatory consumer rights and statutory exceptions.
+
+5. NO WARRANTY OR GUARANTEE
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE AND ALL RELATED
+DOCUMENTATION, RESULTS, AND SERVICES ARE PROVIDED "AS IS" AND "AS AVAILABLE",
+WITH ALL FAULTS AND WITHOUT ANY WARRANTY OR GUARANTEE OF ANY KIND, EXPRESS,
+IMPLIED, OR STATUTORY. THIS INCLUDES WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, TITLE, NON-INFRINGEMENT, ACCURACY, RELIABILITY,
+COMPLETENESS, SECURITY, AND ERROR-FREE OR UNINTERRUPTED OPERATION.
+
+NO GUARANTEE IS MADE THAT A MODEL, SIMULATION, PREDICTION, OR RESULT IS CORRECT,
+SAFE, SUITABLE FOR A PARTICULAR DECISION, OR ACCEPTABLE TO ANY AUTHORITY.
+YOU ARE RESPONSIBLE FOR CHECKING INPUTS, VALIDATING MODELS AND RESULTS,
+MAINTAINING BACKUPS, AND OBTAINING APPROPRIATE PROFESSIONAL REVIEW.
+NO SUPPORT, MAINTENANCE, UPDATES, OR CORRECTIONS ARE PROMISED.
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS,
+AUTHORS, CONTRIBUTORS, AND AUTHORISED DISTRIBUTORS SHALL HAVE NO LIABILITY
+FOR ANY CLAIM, DAMAGE, LOSS, COST, OR OTHER LIABILITY ARISING OUT OF OR IN
+CONNECTION WITH THE SOFTWARE, ITS USE, ITS RESULTS, OR INABILITY TO USE IT.
+THIS INCLUDES DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, AND
+PUNITIVE DAMAGES; LOST PROFITS, DATA, BUSINESS, OR OPPORTUNITIES; PROPERTY
+DAMAGE; AND PERSONAL INJURY, REGARDLESS OF THE THEORY OF LIABILITY, INCLUDING
+CONTRACT, TORT, OR NEGLIGENCE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH LOSS.
+
+THESE EXCLUSIONS DO NOT APPLY TO LIABILITY THAT APPLICABLE LAW PROHIBITS
+EXCLUDING OR LIMITING. WHERE A LIMITATION IS REQUIRED INSTEAD OF AN EXCLUSION,
+LIABILITY IS LIMITED TO THE MINIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+
+7. TERMINATION
+
+Your permission to use the Software terminates if you breach these terms,
+subject to any mandatory notice or cure rights. On termination, stop using
+and delete your copies of the Software, except where retention is required
+by law. Ownership, third-party rights, warranty disclaimers, and liability
+limitations survive termination to the extent applicable.
+
+8. GENERAL
+
+Downloading, installing, or using the Software signifies acceptance of these
+terms to the extent recognised by applicable law. If you do not agree, do not
+install or use it. If any provision is unenforceable, the remaining provisions
+continue to apply to the extent permitted by law. Additional permissions must
+be obtained from the relevant copyright holder in writing.
